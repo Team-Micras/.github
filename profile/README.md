@@ -9,7 +9,7 @@
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30" href ="https://forthebadge.com"/>
 </p>
 
-![_micras_readme](https://github.com/Team-Micras/.github/assets/62271285/4b87497e-2f0e-46c0-90dc-24fc5e888c8c)
+![_micras_readme](https://github.com/Team-Micras/.github/assets/62271285/d6cdcb07-33f6-4cec-9c27-8397236cc35f)
 
 <!--
 
