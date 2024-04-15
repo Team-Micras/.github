@@ -3,8 +3,6 @@
 </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ROS%20version-humble-informational?style=for-the-badge" height="30" href="http://wiki.ros.org/humble"/>
-<img src="https://img.shields.io/badge/Gazebo%20version-fortress-important?style=for-the-badge" height="30" href="http://gazebosim.org/"/> 
 <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" height="30" href ="https://forthebadge.com"/>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30" href ="https://forthebadge.com"/>
 </p>
